@@ -1,2 +1,2 @@
 # FlexiMall
-This repository contains the files for Android application for the project FlexiMall.
+This repository contains files for the Android application.
